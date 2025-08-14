@@ -33,10 +33,10 @@
 
 1.  **환경 설정**:
     * 이 리포지토리를 로컬 환경에 복제(clone)합니다.
-      '''bash
+      ```bash
       git clone https://github.com/mosesjeong/VAE-based-Chest-X-ray-Synthesis-Platform
       cd VAE-based-Chest-X-ray-Synthesis-Platform
-      '''
+      ```
     * 가상 환경을 생성한 후, `requirements.txt` 파일을 이용해 필요한 라이브러리를 설치합니다.
         ```bash
         pip install -r requirements.txt
